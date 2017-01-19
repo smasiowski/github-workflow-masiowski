@@ -33,7 +33,7 @@ public class store {
         System.out.println("-----------------PET STORE--------------------");
         System.out.println("==============================================");
         System.out.println("");
-        inventory();
+        inventory();  
 
     }
 
